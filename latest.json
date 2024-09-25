@@ -1,11 +1,11 @@
 {
-    "version": "v0.0.1",
-    "notes": "First beta of Dupuis ERQZ",
-    "pub_date": "2024-09-25T11:05:00+02:00",
+    "version": "v0.0.2",
+    "notes": "First update of Dupuis ERQZ",
+    "pub_date": "2024-09-25T11:30:00+02:00",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOG1iSnJuWXdjWlNlazYvRndqc2NBcFRadlRzZ09QTWtDQnVwYUpNdVlBSXlUbGNpc2x0VWkramxoYmt5RUE1MHExcnZhcnJDNVcyYjM0OFRIMndxb21IYzFocE9Pb1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MjQ5MDk5CWZpbGU6RHVwdWlzIEVSUVpfMC4xLjFfeDY0X2VuLVVTLm1zaQpUaC9ndEdpSEhKVWtvaVZRbzY1VHVySjRaaEUxckRkdTh4NDBUQzFRNmtFekdmaHRBcExSa2pUSjBYOUhHZys2eTIzTlFHd0ZTcHZYWlduNFprRUFEdz09Cg==",
-        "url": "https://raw.githubusercontent.com/techerqz/dupuis_release/refs/heads/main/download/v001.msi"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOG1iSnJuWXdjWlV4YVFZSE9JcHVJZzFFdHJ0SzNuWlA3NlVoUTF3eW1PcndQYi9TVVNJN0xWeWdUa0tWd3pmTjgyd1paOUJ4d3FJTE5VV3lEdlFBVnVVZlBCWENFK1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MjU2NTY2CWZpbGU6RHVwdWlzIEVSUVpfMC4wLjJfeDY0X2VuLVVTLm1zaQpoWGhiaWpQcUgvdGlNSy9MTUtZYmN1eUdTVktOVmdGdUdoeHN6aGtKeFFaQkdJUmx6MXZ2ZHg4Q2hPS1VaSTRjaGpmMVdVeXk1UVNVWDdJN0k3WHJBQT09Cg==",
+        "url": "https://raw.githubusercontent.com/techerqz/dupuis_release/refs/heads/main/download/v002.msi"
       }
     }
   }
