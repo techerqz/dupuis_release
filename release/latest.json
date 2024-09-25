@@ -1,10 +1,10 @@
 {
-    "version": "0.0.2",
-    "notes": "First update",
-    "pub_date": "2024-09-24T11:11:21+02:00",
+    "version": "2.0.0",
+    "notes": "Trial update",
+    "pub_date": "2024-09-25T09:11:41+02:00",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOG1iSnJuWXdjWmJ0K2ZEbmU1dXpSMUMwMVgvVGVYRklyNkY3c3JCaGVVMExXaC9jdDdCZ2VleUk5NnZkQUtjbFpkV1ZDS2tLSnUrTzMzeTZhR1J4dFZVTlZWUDRnbkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MTkxMjA1CWZpbGU6RHVwdWlzIEVSUVpfMC4xLjFfeDY0X2VuLVVTLm1zaQpPUWY2dGZFTHNPL1dKTmc4Wm9kR2NvK3VxQmdFZi9DM2drYzNEMXdFM0NreWNXMHc0cXRFV0d1d1R1YlovWlJwVnQwVlAyWFgvbVo0RDMyVTZUalZEUT09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOG1iSnJuWXdjWlNlazYvRndqc2NBcFRadlRzZ09QTWtDQnVwYUpNdVlBSXlUbGNpc2x0VWkramxoYmt5RUE1MHExcnZhcnJDNVcyYjM0OFRIMndxb21IYzFocE9Pb1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MjQ5MDk5CWZpbGU6RHVwdWlzIEVSUVpfMC4xLjFfeDY0X2VuLVVTLm1zaQpUaC9ndEdpSEhKVWtvaVZRbzY1VHVySjRaaEUxckRkdTh4NDBUQzFRNmtFekdmaHRBcExSa2pUSjBYOUhHZys2eTIzTlFHd0ZTcHZYWlduNFprRUFEdz09Cg==",
         "url": "https://github.com/techerqz/dupuis_release/download"
       }
     }
