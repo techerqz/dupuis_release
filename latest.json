@@ -1,11 +1,11 @@
 {
-    "version": "v0.0.3",
-    "notes": "Update of Dupuis ERQZ beta. PDF changes and also display of products list.",
-    "pub_date": "2024-09-25T16:40:00+02:00",
+    "version": "v0.0.4",
+    "notes": "Ajout de la page de visualisation des offres et remises + quelques adaptations de l'interface.",
+    "pub_date": "2024-09-26T13:45:00+02:00",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOG1iSnJuWXdjWldlTTlPZTJveHFpUm1MOTcvMDlZdzdyMmxUeVNDeDlSeDBLV215LzVGa0NBVktQUURtWHJCNitvck1zOW5WMVNKTnJ1MXZnWDM4dHZ1bUl5bzRBT0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3Mjc1MTcyCWZpbGU6RHVwdWlzIEVSUVpfMC4wLjNfeDY0X2VuLVVTLm1zaQpVamlBc1NXVHZGdjFEL2J3bjBzcHBlMEIxS2RzSnN4eStoWVhWbXlCQVdZY1krMWhiSVZUQklzaTJpa2hzakFVbUdvQUNnWWI4WThBcVprZURPZmRBQT09Cg==",
-        "url": "https://raw.githubusercontent.com/techerqz/dupuis_release/refs/heads/main/download/v003.msi"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOG1iSnJuWXdjWlZ1SG9BUDVUYi9CRHF1WEFVVWFMOGRzckJiK3MrNTRhRmIydnBIRDcxaWo1NnFQc3d3NzN5bEJSM2p4cVNEN3BhTWRHQ1lWanNiNXQxcEJzdFBGMXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3MzUwOTY3CWZpbGU6RHVwdWlzIEVSUVpfMC4wLjRfeDY0X2VuLVVTLm1zaQpuY0JuUFNPYXJFZXJtcFl3eVE5QnJ3UlIzZXY4RFhvNjlKeDlJa083SHJESTZtMU1MSk9iZk43bUx0YUMwK01MZWpoaW5kdzBlSFdibzIybHNLN2RBdz09Cg==",
+        "url": "https://raw.githubusercontent.com/techerqz/dupuis_release/refs/heads/main/download/v004.msi"
       }
     }
   }
